@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/suttles1985northwest",
             "rdf:type": "prov:Entity",
-            "dc:created": "7487c6a",
+            "dc:created": "adb773e",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
@@ -96,7 +96,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 119,
+            "dc:extent": 129,
             "tableSchema": {
                 "columns": [
                     {

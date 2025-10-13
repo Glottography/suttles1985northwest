@@ -1,4 +1,14 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+alse1252,Alsea,,,,alse1252,,2,dialect,Alsea-Yaquina,dialects
+colu1250,Columbia,,,,colu1250,,20,dialect,Salishan,dialects
+heil1247,Heiltsuk,,,,heil1247,,32,dialect,Wakashan,dialects
+hupa1240,Hupa,,,,hupa1240,,33,dialect,Athabaskan-Eyak-Tlingit,dialects
+kali1309,Kalispel,,,,kali1309,,34,dialect,Salishan,dialects
+matt1239,Mattole,,,,matt1239,,52,dialect,Athabaskan-Eyak-Tlingit,dialects
+nico1265,Nicola Valley Athabaskan,,,,nico1265,,60,dialect,Athabaskan-Eyak-Tlingit,dialects
+noml1242,Nomlaki,,,,noml1242,,62,dialect,Wintuan,dialects
+wail1245,Wailaki,,,,wail1245,,102,dialect,Athabaskan-Eyak-Tlingit,dialects
+yuki1244,Yuki,,,,yuki1244,,109,dialect,Yuki-Wappo,dialects
 achu1247,Achumawi,,41.0979,-121.191,achu1247,,1,language,Palaihnihan,languages
 ahte1237,Ahtena,,61.7068,-144.889,ahte1237,,3,language,Athabaskan-Eyak-Tlingit,languages
 alse1251,Alsea-Yaquina,,44.408,-123.94,alse1251,,2,language,,languages
