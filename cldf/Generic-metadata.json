@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/Glottography/suttles1985northwest",
             "rdf:type": "prov:Entity",
-            "dc:created": "adb773e",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.2.1-20-g8e82dff6e0",
             "dc:title": "Glottolog"
         }
     ],
