@@ -4,5 +4,6 @@
     "description": "This dataset provides non-overlapping, traditional ranges of Native languages of the American northwest coast as depicted in the map by Suttles and Suttles 1985.",
     "license": "CC-BY-4.0",
     "url": null,
+    "zenodo_concept_doi": "10.5281/zenodo.17341947",
     "citation": "Suttles, Wayne & Cameron Suttles. 1985. Native languages of the northwest coast. The Press of the Oregon Historical Society."
 }
