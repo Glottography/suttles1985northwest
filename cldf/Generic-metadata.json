@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/suttles1985northwest",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1",
+            "dc:created": "v1.0.1-1-g4482fb4",
             "dc:title": "Repository"
         },
         {
